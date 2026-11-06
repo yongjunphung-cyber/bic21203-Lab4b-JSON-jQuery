@@ -16,4 +16,4 @@
 
 ## GitHub Repository
 
-Replace this text with your GitHub repository URL.
+[Replace this text with your GitHub repository URL.](https://github.com/yongjunphung-cyber/bic21203-Lab4b-JSON-jQuery/edit/main/README.md)
